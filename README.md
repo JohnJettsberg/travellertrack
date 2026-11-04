@@ -21,11 +21,14 @@ backups and port forwarding. Get the newest version from the
 **[latest release](https://github.com/JohnJettsberg/travellertrack/releases/latest)**
 and pick the file for your system:
 
-| System | File |
-|--------|------|
-| Windows | `...win-x64.exe` (installer) or `...win-x64.zip` (no install) |
-| macOS (Apple Silicon) | `...mac-arm64.dmg` or `...mac-arm64.zip` |
-| Linux (x64) | `...x64.AppImage` or `...x64.tar.gz` |
+| System | Recommended | Alternative |
+|--------|-------------|-------------|
+| Windows | [Installer (.exe)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-win-x64.exe) | [Portable (.zip)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-win-x64.zip) |
+| macOS (Apple Silicon) | [Disk image (.dmg)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-mac-arm64.dmg) | [Zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-mac-arm64.zip) |
+| Linux (x64) | [AppImage](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-linux-x86_64.AppImage) | [Archive (.tar.gz)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.0/Traveller-Host-0.2.0-linux-x64.tar.gz) |
+
+These links are for version 0.2.0. Newer versions are always on the
+**[latest release page](https://github.com/JohnJettsberg/travellertrack/releases/latest)**.
 
 The apps are not code-signed, so your system will warn you the first time:
 
