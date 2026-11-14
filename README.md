@@ -15,19 +15,19 @@ the website or the separate Traveller Tracker player app.
 
 | System | Recommended | Alternative |
 |--------|-------------|-------------|
-| Windows (x64) | [Installer (.exe)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-win-x64.exe) | [Portable (.zip)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-win-x64.zip) |
-| macOS (Apple Silicon) | [Disk image (.dmg)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-mac-arm64.dmg) | [Zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-mac-arm64.zip) |
-| Linux (x64) | [AppImage](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-linux-x86_64.AppImage) | [.tar.gz](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-linux-x64.tar.gz) · [.zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Tracker-0.2.21-linux-x64.zip) |
+| Windows (x64) | [Installer (.exe)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-win-x64.exe) | [Portable (.zip)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-win-x64.zip) |
+| macOS (Apple Silicon) | [Disk image (.dmg)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-mac-arm64.dmg) | [Zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-mac-arm64.zip) |
+| Linux (x64) | [AppImage](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-linux-x86_64.AppImage) | [.tar.gz](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-linux-x64.tar.gz) · [.zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Tracker-0.2.22-linux-x64.zip) |
 
 ### Traveller Host (game host / server)
 
 | System | Recommended | Alternative |
 |--------|-------------|-------------|
-| Windows (x64) | [Installer (.exe)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-win-x64.exe) | [Portable (.zip)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-win-x64.zip) |
-| macOS (Apple Silicon) | [Disk image (.dmg)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-mac-arm64.dmg) | [Zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-mac-arm64.zip) |
-| Linux (x64) | [AppImage](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-linux-x86_64.AppImage) | [.tar.gz](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.21/Traveller-Host-0.2.21-linux-x64.tar.gz) |
+| Windows (x64) | [Installer (.exe)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-win-x64.exe) | [Portable (.zip)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-win-x64.zip) |
+| macOS (Apple Silicon) | [Disk image (.dmg)](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-mac-arm64.dmg) | [Zip](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-mac-arm64.zip) |
+| Linux (x64) | [AppImage](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-linux-x86_64.AppImage) | [.tar.gz](https://github.com/JohnJettsberg/travellertrack/releases/download/v0.2.22/Traveller-Host-0.2.22-linux-x64.tar.gz) |
 
-These links are for version 0.2.21. Newer versions are always on the
+These links are for version 0.2.22. Newer versions are always on the
 **[latest release page](https://github.com/JohnJettsberg/travellertrack/releases/latest)**.
 
 <!-- downloads:end -->
